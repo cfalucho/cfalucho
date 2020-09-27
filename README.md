@@ -5,7 +5,7 @@ I am a student web developer at Cal Poly Pomona. My passion is in front end deve
 
 ##  💻 I am currently learning ...
 
-- Web Security
+- Web security
 - php
 - React
 - ASP.NET
@@ -13,7 +13,8 @@ I am a student web developer at Cal Poly Pomona. My passion is in front end deve
 
 ##  🌏 Connect or contact me 
 
-- [Linkedin](www.linkedin.com/in/cdfalucho)
+- [Linkedin](https://www.linkedin.com/in/cdfalucho/)
+- cdfalucho@gmail.com
 
 
 
