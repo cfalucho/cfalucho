@@ -9,7 +9,10 @@ Aspiring software engineer who is passionate in front end development.
 - React Native to build mobile apps
 - ASP.NET to create dynamic web apps
 
+### ♟ On my free time...
 
+- I like to play[Chess](https://www.chess.com/register?ref_id=62505398). Feel free to add me.
+ 
 ### 🌏 Connect or Contact me 
 
 - [Linkedin](https://www.linkedin.com/in/cdfalucho/)
