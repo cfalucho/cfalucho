@@ -3,7 +3,7 @@ Aspiring software engineer who is passionate in front end development in order t
 
 
 
-### 💻 I am currently learning ...
+### 📚I am currently learning ...
 
 - Web security
 - php
