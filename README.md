@@ -5,8 +5,7 @@ Aspiring software engineer who is passionate in front end development.
 
 ### 📚 I am currently learning ...
 
-- Web security
-- php
+- Web security with php
 - React Native
 - ASP.NET
 
