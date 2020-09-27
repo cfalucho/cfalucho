@@ -1,7 +1,7 @@
 # 👋 Hi, my name is Christian  
 Aspiring software engineer who is passionate in front end development.
 
-
+------------------------------
 
 ### 📚 I am currently learning ...
 
