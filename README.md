@@ -4,11 +4,11 @@ I am a student web developer at CPP.
 
 
 ##  💻 I am currently learning ...
-------------------------------
 
-- 🔐 Web Security
-- 🅿️ php
-- ⚛️  React
+- Web Security
+- php
+- React
+- ASP.NET
 
 
 
