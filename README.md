@@ -1,5 +1,5 @@
 # 👋 Hi, my name is Christian  
-Aspiring software engineer who is passionate in building interactive web for users to interact with data.
+Aspiring software engineer who is passionate in front end development.
 
 
 
