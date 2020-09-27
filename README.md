@@ -13,9 +13,7 @@ I am a student web developer at Cal Poly Pomona. My passion is in front end deve
 
 ##  🌏 Connect or contact me 
 
-- [Linkedin](www.linkedin.com/in/cdfalucho)
-- [Gmail](cdfalucho@gmail.com)
-
+-[Linkedin](www.linkedin.com/in/cdfalucho)
 
 
 
