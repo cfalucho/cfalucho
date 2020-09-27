@@ -3,7 +3,7 @@ Aspiring software engineer who is passionate in front end development in order t
 
 
 
-##  💻 I am currently learning ...
+### 💻 I am currently learning ...
 
 - Web security
 - php
@@ -11,7 +11,7 @@ Aspiring software engineer who is passionate in front end development in order t
 - ASP.NET
 
 
-##  🌏 Connect or Contact me 
+### 🌏 Connect or Contact me 
 
 - [Linkedin](https://www.linkedin.com/in/cdfalucho/)
 - cdfalucho@gmail.com
