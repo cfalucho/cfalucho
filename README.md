@@ -7,7 +7,7 @@ Aspiring software engineer who is passionate in front end development in order t
 
 - Web security
 - php
-- React
+- React Native
 - ASP.NET
 
 
