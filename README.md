@@ -11,7 +11,7 @@ Aspiring software engineer who is passionate in front end development in order t
 - ASP.NET
 
 
-##  🌏 Connect or contact me 
+##  🌏 Connect or Contact me 
 
 - [Linkedin](https://www.linkedin.com/in/cdfalucho/)
 - cdfalucho@gmail.com
