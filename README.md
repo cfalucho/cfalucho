@@ -11,7 +11,9 @@ Aspiring software engineer who is passionate in front end development.
 
 ### ♟ On my free time...
 
-- I like to play[Chess](https://www.chess.com/register?ref_id=62505398). Feel free to add me.
+- I like to play [Chess](https://www.chess.com/register?ref_id=62505398). Feel free to add me.
+- Play or watch basketball
+- Watch TV shows (huge fan of friends)
  
 ### 🌏 Connect or Contact me 
 
