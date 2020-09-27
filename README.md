@@ -1,5 +1,5 @@
 # 👋 Hi, my name is Christian  
-I am a student web developer at Cal Poly Pomona. My passion is in front end development in order for users to interact and view data. 
+Aspiring software engineer who is passionate in front end development in order to make it accessible to users to interact with data.
 
 
 
