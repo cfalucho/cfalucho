@@ -10,8 +10,8 @@ Aspiring software engineer who is passionate in full stack development.
 ## ♟ On my free time ...
 
 - I like to play [Chess](https://www.chess.com/register?ref_id=62505398). Feel free to add me.
-- Play or watch basketball (go Lakers!)
-- Watch TV (huge fan of friends)
+- Play and watch basketball (go Lakers!)
+- Watch TV (huge fan of Friends)
  
 ## 🌏 Connect or Contact me 
 
