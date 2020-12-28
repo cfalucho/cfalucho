@@ -11,7 +11,7 @@ Aspiring software engineer who is passionate in full stack development.
 
 - I like to play [Chess](https://www.chess.com/register?ref_id=62505398). Feel free to add me.
 - Play and watch basketball (go Lakers!)
-- Watch TV (huge fan of Friends)
+- Watch TV (Friends, Big Bang Theory, West Wing, Game of Thrones, etc)
  
 ## 🌏 Connect or Contact me 
 
