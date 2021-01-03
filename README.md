@@ -1,5 +1,5 @@
 # 👋 Hi, my name is Christian  
-Aspiring software engineer who is passionate in full stack development.
+Aspiring software engineer who is passionate in front-end development.
 
 ## 📚 I am currently learning ...
 
