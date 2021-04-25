@@ -1,5 +1,5 @@
 # 👋 Hi, my name is Christian  
-Aspiring software engineer who is passionate in front-end development.
+I am passionate about various technologies. From technical support to development. I enjoy helping people with their technical problems and finding solutions to help make peoples lives easier. With the advancement of technology it can be difficult for people to keep up with new technology. My job is to be the bridge that makes it easy to learn new technology. Through my education I have gained skills in development in addition have gained technical support skills through job experience and internships. I have a motive to reduce the digital dive and continue my learning in the field of technology.
 
 ## 📚 I am currently learning ...
 
